@@ -1,5 +1,12 @@
 # @pandacss/postcss
 
+## 0.17.5
+
+### Patch Changes
+
+- @pandacss/node@0.17.5
+- @pandacss/symlink@0.17.5
+
 ## 0.17.4
 
 ### Patch Changes

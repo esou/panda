@@ -1,5 +1,17 @@
 # @pandacss/studio
 
+## 0.17.5
+
+### Patch Changes
+
+- abe35313: Fix issue where error is thrown for semantic tokens with raw values.
+  - @pandacss/config@0.17.5
+  - @pandacss/logger@0.17.5
+  - @pandacss/node@0.17.5
+  - @pandacss/shared@0.17.5
+  - @pandacss/token-dictionary@0.17.5
+  - @pandacss/types@0.17.5
+
 ## 0.17.4
 
 ### Patch Changes
